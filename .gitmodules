@@ -1,3 +1,9 @@
 [submodule "Tasks/1 - Create REST API using Express/Pivithuru"]
 	path = Tasks/1 - Create REST API using Express/Pivithuru
 	url = https://github.com/Pivee/Modern-Walk-API-Example.git
+[submodule "Tasks/1 - Create REST API using Express/Naveen"]
+	path = Tasks/1 - Create REST API using Express/Naveen
+	url = https://github.com/NaveenMare/modern-walk-expressjs-api.git
+[submodule "Tasks/1 - Create REST API using Express/Shasheen"]
+	path = Tasks/1 - Create REST API using Express/Shasheen
+	url = https://github.com/shasheendilshan/Modernwalk-backend-express-ts.git
