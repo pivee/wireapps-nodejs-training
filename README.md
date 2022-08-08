@@ -1,6 +1,6 @@
 # WireApps KT: NodeJS Backend (2022-08)
 
-## Frameworks & Libraires to Cover
+## Frameworks & Libraries to Cover
 
 - [NestJS](https://nestjs.com/)
 - [TypeORM](https://typeorm.io/)
