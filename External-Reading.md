@@ -1,4 +1,4 @@
-# WireApps KT: Extra Reading
+# WireApps KT: External Reading
 
 ## Microservices
 - [Design Patterns for Microservices](https://dzone.com/articles/design-patterns-for-microservice)
