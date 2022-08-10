@@ -7,3 +7,6 @@
 [submodule "Tasks/1 - Create REST API using Express/Shasheen"]
 	path = Tasks/1 - Create REST API using Express/Shasheen
 	url = https://github.com/shasheendilshan/Modernwalk-backend-express-ts.git
+[submodule "Guides/How to create your own NPM packages"]
+	path = Guides/How to create your own NPM packages
+	url = https://github.com/Pivee/Say-Hello-to-NPM.git
