@@ -23,5 +23,5 @@ git submodule update --recursive
 ```
 
 ```sh
-git pull recurse-submodules
+git pull --recurse-submodules
 ```
