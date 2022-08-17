@@ -4,7 +4,7 @@ You have already created a mock API using `json-server` during the Frontend Trai
 
 Convert the mock API you created into an Express app to successfully complete this task. You do not need to create an actual database -- use JSON objects in code instead.
 
-## Take-aways
+## Take-aways 📦
 
 - How to setup Nodemon and Typescript for local development
 - How to use Express on NodeJS create a simple REST API
