@@ -10,3 +10,6 @@
 [submodule "Guides/How to create your own NPM packages"]
 	path = Guides/How to create your own NPM packages
 	url = https://github.com/Pivee/Say-Hello-to-NPM.git
+[submodule "Tasks/2 - Create REST API using Nest/Naveen"]
+	path = Tasks/2 - Create REST API using Nest/Naveen
+	url = https://github.com/NaveenMare/nestjs-api-typeorm
