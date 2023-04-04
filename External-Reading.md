@@ -27,4 +27,4 @@
 
 # Tutorials
 - [TypeScript Express tutorial - Wanago.io](https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/)
-  - This is good TS + Express tutorial that introduces CLEAN code and DI in a practical manner.
+  - This is a good TS + Express tutorial that introduces CLEAN code and DI in a practical manner.
