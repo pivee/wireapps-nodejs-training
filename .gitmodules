@@ -13,3 +13,6 @@
 [submodule "Tasks/2 - Create REST API using Nest/Naveen"]
 	path = Tasks/2 - Create REST API using Nest/Naveen
 	url = https://github.com/NaveenMare/nestjs-api-typeorm
+[submodule "Tasks/2 - Create REST API using Nest/Shasheen"]
+	path = Tasks/2 - Create REST API using Nest/Shasheen
+	url = https://github.com/shasheendilshan/modernwalk-nest-js-backend.git
