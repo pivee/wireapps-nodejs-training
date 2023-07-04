@@ -55,6 +55,6 @@
   - Utilize Twilio or any other service to send Email / SMS notifications
 - Dockerize and deploy the services to a cluster on Amazon AWS
 
-> Novmber, 2022: Backend Training program ends here
+> November, 2022: Backend Training program ends here
 
 ---
