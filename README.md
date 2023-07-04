@@ -1,4 +1,4 @@
-# WireApps KT: NodeJS Backend (2022-08)
+# WireApps: NodeJS Backend (2022-08)
 
 ## Frameworks & Libraries to Cover
 
