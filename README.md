@@ -1,4 +1,4 @@
-# WireApps: NodeJS Backend (2022-08)
+# WireApps: NodeJS Backend
 
 ## Frameworks & Libraries to Cover
 
@@ -11,11 +11,7 @@
 
 ## Monthly Plan
 
-> July, 2022: Frontend Training program ends here
-
 ### Month 01 (4/6)
-
-> August, 2022
 
 - Introduction to NestJS for simple REST API on HTTP
 - Create an API for CRUD functions on a collection of users
@@ -29,8 +25,6 @@
 
 ### Month 02 (5/6)
 
-> September, 2022
-
 - Create an Authentication Service using PassportJS on NestJS
   - Implement Email and Password Login
   - Implement Passwordless / OTP Login
@@ -43,8 +37,6 @@
 
 ### Month 03 (6/6)
 
-> October, 2022
-
 - Learn about Microservice Architecture
   - gRPC
   - RabbitMQ
@@ -54,7 +46,5 @@
 - Create a Notification Service listening to a message queue (RabbitMQ)
   - Utilize Twilio or any other service to send Email / SMS notifications
 - Dockerize and deploy the services to a cluster on Amazon AWS
-
-> November, 2022: Backend Training program ends here
 
 ---
